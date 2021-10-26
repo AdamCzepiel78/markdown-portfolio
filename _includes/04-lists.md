@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Line 1
+* Line 2
+* Line 3
+  * Line 3 - 1
+  * Line 3 - 2
+  * 💔
+  * 👍
